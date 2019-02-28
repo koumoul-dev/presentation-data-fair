@@ -1,5 +1,4 @@
-Cette présentation peut être visionnée [ici](https://koumoul-dev.github.io/presentation-koumoul/)
-La version courte est disponible [ici](https://koumoul-dev.github.io/presentation-koumoul/short.html)
+Cette présentation peut être visionnée [ici](https://koumoul-dev.github.io/presentation-data-fair/)
 
 Elle a été faite avec [reveal.js](http://lab.hakim.se/reveal-js/#/)
 
